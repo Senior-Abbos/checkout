@@ -1,0 +1,22 @@
+Year,Total_Assets_(in_billions),Total_Deposits_(in_billions),Total_Loans_(in_billions),Net_Income_(in_billions),Regulatory_Changes,Economic_Indicators
+2000,500,400,300,20,Basel II implemented,GDP Growth: 3.5%
+2001,520,410,310,18,Sarbanes-Oxley Act passed,GDP Growth: 1.8%
+2002,540,420,320,22,Basel III introduced,GDP Growth: 2.5%
+2003,560,430,330,25,Interest Rates reduced by 0.5%,GDP Growth: 4.2%
+2004,580,440,340,27,SEC imposes stricter regulations,GDP Growth: 4.9%
+2005,600,450,350,30,Dodd-Frank Act passed,GDP Growth: 3.8%
+2006,620,460,360,32,Subprime mortgage crisis begins,GDP Growth: 2.2%
+2007,640,470,370,28,Federal Reserve cuts interest rates,GDP Growth: 1.1%
+2008,660,480,380,-10,Emergency Economic Stabilization Act passed,GDP Growth: -0.1%
+2009,680,490,390,5,Quantitative Easing initiated,GDP Growth: -2.5%
+2010,700,500,400,15,Basel III fully implemented,GDP Growth: 2.8%
+2011,720,510,410,20,Volcker Rule introduced,GDP Growth: 1.6%
+2012,740,520,420,25,Eurozone debt crisis worsens,GDP Growth: 1.9%
+2013,760,530,430,30,Volatility in emerging markets,GDP Growth: 2.5%
+2014,780,540,440,35,Federal Reserve ends quantitative easing,GDP Growth: 3.1%
+2015,800,550,450,40,Dodd-Frank Act reforms proposed,GDP Growth: 2.8%
+2016,820,560,460,45,Brexit referendum,GDP Growth: 1.9%
+2017,840,570,470,50,Tax Cuts and Jobs Act passed,GDP Growth: 2.3%
+2018,860,580,480,55,Trade tensions escalate,GDP Growth: 2.9%
+2019,880,590,490,60,Repo market turmoil,GDP Growth: 2.2%
+2020,900,600,500,65,COVID-19 pandemic,GDP Growth: -3.5%
